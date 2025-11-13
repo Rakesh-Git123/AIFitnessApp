@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#FF9C27B0</color>
+    
+    <!-- Splash Screen Colors -->
+    <color name="splash_text_primary">#FFFFFF</color>
+    <color name="splash_background_start">#00C6FF</color>
+    <color name="splash_background_end">#0072FF</color>
+    <color name="splash_radial_center">#40FFFFFF</color>
+    <color name="splash_radial_edge">#00FFFFFF</color>
+</resources>
